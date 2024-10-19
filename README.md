@@ -1,5 +1,7 @@
 # ProShop eCommerce Platform (v2)
 
+Live Link: https://mern-proshop-1-ce3l.onrender.com/
+
 > eCommerce platform built with the MERN stack & Redux.
 
 ![Screenshot 2024-10-19 185813](https://github.com/user-attachments/assets/7bd1f995-0527-4465-b2ed-45d45b6e4d65)
